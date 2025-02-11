@@ -32,13 +32,3 @@ cd image-to-text
 
 
 
-
-
-
-### 🔥 **Why This README is Effective?**  
-✅ **Engaging & Informative** – Users instantly understand the tool.  
-✅ **SEO-Friendly** – Uses keywords like "OCR", "Image to Text", "Free Converter".  
-✅ **Call-to-Action (CTA)** – Clear demo link for users.  
-✅ **Technical Details** – Lists tech stack, setup steps, and contribution guidelines.  
-
-Let me know if you need any tweaks! 🚀🔥
